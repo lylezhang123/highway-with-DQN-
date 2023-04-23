@@ -1,1 +1,1 @@
-# highway-with-DQN-
+# highway-with-algorithm
